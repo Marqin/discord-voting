@@ -1,0 +1,4 @@
+config.json
+/poll-bot/poll-bot
+/voting-results/voting-results
+*\.db

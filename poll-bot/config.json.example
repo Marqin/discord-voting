@@ -1,0 +1,12 @@
+{
+  "serverID": "NUMERICAL_ID_OF_YOUR_SERVER",
+  "roleID": "NUMERICAL_ID_OF_ROLE_PERMITED_TO_VOTE",
+  "token": "BOT_SECRET_TOKEN_FROM_DISCORD",
+  "votesPerUser": 1,
+  "choices": [
+    "SOME",
+    "POLL",
+    "CHOICES"
+  ],
+  "rulesURL": "URL://TO.YOUR/RULES"
+}
